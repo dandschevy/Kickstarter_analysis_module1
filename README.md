@@ -22,7 +22,8 @@ pivot table was completed, a line chart was created in order to easily visualize
 Based on the chart below, May was the peak of successful theater launches during the twelve months with an appearance of a normal distribution graph.  
 The failed launches were a bit more consistent throughout the year, although a little higher in the summer months, with dips in May and September and a 
 spike in October.  Canceled outcomes were the largest in January and then were primarily flat with dips in July and October. 
-![Theater_Outcomes_vs_Launch]
+![Theater_Outcomes_vs_Launch](https://github.com/dandschevy/Kickstarter_analysis_module1/main/resources/Theater_Outcomes_vs_Launch.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
